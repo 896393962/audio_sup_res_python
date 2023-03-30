@@ -327,7 +327,7 @@ class Toplevel1:
         self.testlabel.configure(compound='left')
         self.testlabel.configure(disabledforeground="#a3a3a3")
         self.testlabel.configure(foreground="#000000")
-        self.testlabel.configure(text='''卢钰丹小组''')
+        self.testlabel.configure(text='''小组''')
 
         self.versionlabel = tk.Label(self.top)
         self.versionlabel.place(x=440, y=40, height=23, width=100)
@@ -374,7 +374,7 @@ class Toplevel1:
         if not messagebox.askokcancel("提示",'耗时可能较长，是否开始重建', default="cancel", icon="warning"):
             return 
         global filename
-        pathm=self.get_model_path('model.h5')
+        pathm=self.get_model_path('model.h5') #model训练方法见KYShek/AFILM
         self.message("load model path success")
         model=self.loadmodel(pathm)
         self.message("load model success")
