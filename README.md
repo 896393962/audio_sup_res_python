@@ -7,6 +7,6 @@ To 哈哈群：
 
 麻烦点一下Fork和Star，这是对我工作的尊重谢谢。
 
-麻烦使用git clone来下载项目，而非download zip。
+麻烦使用git clone来下载项目，而非download zip，我不希望做了那么多软件项目，GitHub对你们来说只是一个代码下载器。
 
 ---20-信微痛
