@@ -3,7 +3,7 @@
 
 项目中使用的神经网络模型见[KYShek/AFILM](https://github.com/KYShek/AFILM)
 
-To 哈哈群
+To 哈哈群：
 
 麻烦点一下Fork和Star，这是对我工作的尊重谢谢。
 
