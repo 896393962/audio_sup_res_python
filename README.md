@@ -3,6 +3,8 @@
 
 项目中使用的神经网络模型见[KYShek/AFILM](https://github.com/KYShek/AFILM)
 
+项目中信号处理方法重建部分在摆烂，线上课，理解一下，fft学的不太行，只做了插值。
+
 To 哈哈群：
 
 麻烦点一下Fork和Star，这是对我工作的尊重谢谢。
